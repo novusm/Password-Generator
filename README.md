@@ -43,6 +43,7 @@ Some Sources include:
 https://www.youtube.com/watch?v=Xrsb9SiF3a8&ab_channel=GreatStack
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Instance_methods
+https://www.udacity.com/blog/2021/04/javascript-random-numbers.html#:~:text=Javascript%20creates%20pseudo%2Drandom%20numbers,it%20will%20never%20be%201.
 
 ## Links for Project
 Git Hub containing project code URL: https://github.com/novusm/Password-Generator/ 
